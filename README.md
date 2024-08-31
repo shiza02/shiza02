@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shiza02
+- 👋 Hi, I’m @shixa02
 - 👀 I’m interested in UI/UX design
 - 🌱 I’m currently learning web development along with UI/UX design
 - 💞️ I’m looking to collaborate on UI projects
